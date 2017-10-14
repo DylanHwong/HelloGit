@@ -13,3 +13,5 @@ add push dev & branch!
 ----------cut-off line------------------
 
 migrate to gitee!
+
+use git GUI!
